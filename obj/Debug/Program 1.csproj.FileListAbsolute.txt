@@ -1,0 +1,9 @@
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\bin\Debug\Program 1.exe.config
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\obj\Debug\Program 1.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\obj\Debug\Program_1.Program1PaintCalculator.resources
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\obj\Debug\Program_1.Properties.Resources.resources
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\obj\Debug\Program 1.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\bin\Debug\Program 1.exe
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\bin\Debug\Program 1.pdb
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\obj\Debug\Program 1.exe
+C:\Users\Chris\Documents\CIS 199\Labs\Program 1\Program 1\obj\Debug\Program 1.pdb
